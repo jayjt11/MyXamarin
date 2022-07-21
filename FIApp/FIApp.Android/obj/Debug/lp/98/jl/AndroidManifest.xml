@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.fiserv.dps.mobile.sdk"
+    android:versionCode="6"
+    android:versionName="1.3.4" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="30"
+        tools:overrideLibrary="com.google.zxing.client.android" />
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission
+        android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="28"
+        tools:ignore="ScopedStorage" />
+    <uses-permission android:name="android.permission.ACCESS_MEDIA_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:allowBackup="false"
+        android:hardwareAccelerated="true"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:requestLegacyExternalStorage="true"
+        android:supportsRtl="true"
+        tools:targetApi="n" >
+        <activity
+            android:name="com.fiserv.dps.mobile.sdk.activity.ContactDetailActivity"
+            android:theme="@style/Theme.ZelleSDK" />
+        <activity
+            android:name="com.fiserv.dps.mobile.sdk.activity.ScanQRActivity"
+            android:theme="@style/Theme.ZelleSDK" />
+        <activity
+            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+            android:hardwareAccelerated="true"
+            android:screenOrientation="portrait"
+            tools:replace="screenOrientation" />
+
+        <!-- <provider -->
+        <!-- android:name="androidx.core.content.FileProvider" -->
+        <!-- android:authorities="com.fiserv.dps.mobile.sdk.zelle_file_provider" -->
+        <!-- android:exported="false" -->
+        <!-- android:grantUriPermissions="true"> -->
+        <!-- <meta-data -->
+        <!-- android:name="android.support.FILE_PROVIDER_PATHS" -->
+        <!-- android:resource="@xml/zelle_sdk_file_paths" /> -->
+        <!-- </provider> -->
+
+    </application>
+
+</manifest>

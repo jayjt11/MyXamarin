@@ -1,0 +1,94 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_StrErrorR
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetReadDirRBufferSize
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadLink
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Symlink
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CopyFile
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEGid
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEUid
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Link
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_MkDir
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Rename
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Unlink
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_OpenDir
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadDirR
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CloseDir
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=NetSecurityNative_ReleaseGssBuffer
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMinorStatus
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMajorStatus
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportUserName
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportPrincipalName
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseName
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredSpNego
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredWithPassword
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseCred
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitSecContext
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DeleteSecContext
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=xamarin_start_wwan
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=xamarin_release_managed_ref
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_set_gchandle_with_flags_safe
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_exception
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_exception
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_ZelleProxy
+	/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+Function=mono_pmip
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret

@@ -1,0 +1,94 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_StrErrorR
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetReadDirRBufferSize
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadLink
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Symlink
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CopyFile
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEGid
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEUid
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Link
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_MkDir
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Rename
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Unlink
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_OpenDir
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadDirR
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CloseDir
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/mscorlib.dll
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=NetSecurityNative_ReleaseGssBuffer
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMinorStatus
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMajorStatus
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportUserName
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportPrincipalName
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseName
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredSpNego
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredWithPassword
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseCred
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitSecContext
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DeleteSecContext
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/System.dll
+Function=xamarin_start_wwan
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/System.dll
+Function=xamarin_release_managed_ref
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_set_gchandle_with_flags_safe
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_exception
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_exception
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_MyZelle
+	/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/mtouch-cache/1-Link/NativeLibrary.dll
+Function=mono_pmip
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret

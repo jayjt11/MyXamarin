@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jl11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/FIApp.Android/obj/Debug/lp/86/jl/res.zip!/" />
+      <root url="jar://$PROJECT_DIR$/FIApp.Android/obj/Debug/lp/86/jl/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FIApp.Android/obj/Debug/lp/86/jl/annotations.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

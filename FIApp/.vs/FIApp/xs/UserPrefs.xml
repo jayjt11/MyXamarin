@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{682C149B-0CCF-4082-BC56-F7DB8665C946}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FIApp.Android/ZelleActivity.cs">
+    <Files>
+      <File FileName="FIApp.iOS/SampleViewController.cs" Line="32" Column="60" />
+      <File FileName="FIApp.iOS/AppDelegate.cs" Line="43" Column="1" />
+      <File FileName="FIApp/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="FIApp.Android/ZelleActivity.cs" Line="38" Column="1" />
+      <File FileName="../../../Projects/ZelleBindingLibraryIOS/ZelleBindingLibraryIOS/ApiDefinition.cs" Line="1" Column="1" />
+      <File FileName="FIApp.iOS/Sample.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FIApp" expanded="True">
+            <Node name="FIApp.Android" expanded="True">
+              <Node name="References" expanded="True" selected="True" />
+            </Node>
+            <Node name="FIApp.iOS" expanded="True" />
+            <Node name="Xamarin.SingleView" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FIApp.Android AndroidDesignerPreferredTheme="MainTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.RSBACA75T4YHSKPF" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F3284A18-29D5-4E0B-B301-78BD866F598C" />
+  <MonoDevelop.Ide.ItemProperties.FIApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F3284A18-29D5-4E0B-B301-78BD866F598C" />
+</Properties>

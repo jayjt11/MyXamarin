@@ -1,0 +1,130 @@
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/FIApp.iOS.exe
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/FIApp.iOS.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/FIApp.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/FIApp.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/FIApp.iOS.csproj.AssemblyReference.cache
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/FIApp.iOS.csproj.CoreCompileInputs.cache
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/FIApp.iOS.csproj.CopyComplete
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/FIApp.iOS.exe
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/FIApp.iOS.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/NativeLibrary.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/NativeLibrary.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/actool/_PartialAppManifest.items
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/actool/_BundleResourceWithLogicalName.items
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/actool/_ProcessedImageAssetsPath.items
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/ibtool/_BundleResourceWithLogicalName.items
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/coremlc/_PartialAppManifest.items
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/coremlc/_BundleResourceWithLogicalName.items
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/_ProcessedBundleResourcesPath.items
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/_ProcessedContentPath.items
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.5/optimized/
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/FIApp.iOS.exe
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/FIApp.iOS.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/FIApp.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/NativeLibrary.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/FIApp.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/bin/iPhoneSimulator/Debug/NativeLibrary.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/actool/_ProcessedImageAssetsPath.items
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/coremlc/_PartialAppManifest.items
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/_ProcessedBundleResourcesPath.items
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/_ProcessedContentPath.items
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/FIApp.iOS.csproj.AssemblyReference.cache
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/FIApp.iOS.csproj.CoreCompileInputs.cache
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/FIApp.iOS.csproj.CopyComplete
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/FIApp.iOS.exe
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.iOS/obj/iPhoneSimulator/Debug/FIApp.iOS.pdb

@@ -1,0 +1,1241 @@
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/bin/Debug/FIApp.Android.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/bin/Debug/FIApp.Android.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/bin/Debug/com.fiserv.dps.mobile.fiapp.apk
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/bin/Debug/com.fiserv.dps.mobile.fiapp.aab
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/bin/Debug/com.fiserv.dps.mobile.fiapp-Signed.aab
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/bin/Debug/com.fiserv.dps.mobile.fiapp-Signed.apk
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/bin/Debug/com.fiserv.dps.mobile.fiapp-Signed.apk.idsig
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/bin/Debug/FIApp.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/bin/Debug/ZelleSDKAndroidBinding.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/bin/Debug/ZxingEmbedded.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/bin/Debug/FIApp.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/bin/Debug/ZxingEmbedded.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/bin/Debug/ZxingEmbedded.xml
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/bin/Debug/ZelleSDKAndroidBinding.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/bin/Debug/ZelleSDKAndroidBinding.xml
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/MonoAndroid,Version=v11.0.AssemblyAttributes.cs
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/build.props
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/adb.props
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/FIApp.Android.csproj.AssemblyReference.cache
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/stamp/_BuildLibraryImportsCache.stamp
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/res.flag
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/lp/49/jl/files.cache
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/lp/50/jl/files.cache
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/lp/56/jl/files.cache
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/lp/57/jl/files.cache
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/lp/60/jl/files.cache
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/lp/61/jl/files.cache
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/lp/62/jl/files.cache
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/lp/66/jl/files.cache
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/lp/67/jl/files.cache
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/lp/68/jl/files.cache
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/lp/73/jl/files.cache
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/lp/74/jl/files.cache
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/lp/78/jl/files.cache
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/lp/79/jl/files.cache
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/lp/81/jl/files.cache
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/lp/82/jl/files.cache
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/lp/83/jl/files.cache
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/lp/84/jl/files.cache
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/lp/85/jl/files.cache
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/lp/86/jl/files.cache
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/lp/89/jl/files.cache
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/lp/97/jl/files.cache
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/lp/98/jl/files.cache
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/lp/99/jl/files.cache
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/R.txt
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/R.cs.flag
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/FIApp.Android.csproj.CoreCompileInputs.cache
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/FIApp.Android.csproj.CopyComplete
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/FIApp.Android.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/FIApp.Android.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/bin/com.fiserv.dps.mobile.fiapp.apk
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/bin/base.zip
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/bin/com.fiserv.dps.mobile.fiapp.aab
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/bin/com.fiserv.dps.mobile.fiapp.apks
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/res/values/styles.xml
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/res/values/colors.xml
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/res/mipmap-anydpi-v26/icon.xml
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/res/mipmap-anydpi-v26/icon_round.xml
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/res/mipmap-hdpi/icon.png
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/res/mipmap-hdpi/launcher_foreground.png
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/res/mipmap-mdpi/icon.png
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/res/mipmap-mdpi/launcher_foreground.png
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/res/mipmap-xhdpi/icon.png
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/res/mipmap-xhdpi/launcher_foreground.png
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/res/mipmap-xxhdpi/icon.png
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/res/mipmap-xxhdpi/launcher_foreground.png
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/res/mipmap-xxxhdpi/launcher_foreground.png
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/res/layout/zelle_activity.xml
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/uploadflags.txt
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/resolvedassemblies.hash
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/FIApp.Android.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/FIApp.Android.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/FIApp.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/FIApp.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/FormsViewGroup.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/FormsViewGroup.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Google.ZXing.Core.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Java.Interop.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Mono.Android.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Mono.Android.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Mono.Security.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Mono.Security.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/mscorlib.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/mscorlib.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/netstandard.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/System.ComponentModel.Composition.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/System.ComponentModel.Composition.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/System.Core.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/System.Core.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/System.Data.DataSetExtensions.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/System.Data.DataSetExtensions.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/System.Data.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/System.Data.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/System.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/System.Drawing.Common.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/System.Drawing.Common.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/System.IO.Compression.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/System.IO.Compression.FileSystem.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/System.IO.Compression.FileSystem.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/System.IO.Compression.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/System.Net.Http.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/System.Net.Http.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/System.Numerics.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/System.Numerics.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/System.Numerics.Vectors.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/System.Numerics.Vectors.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/System.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/System.Runtime.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/System.Runtime.Serialization.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/System.Runtime.Serialization.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/System.ServiceModel.Internals.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/System.ServiceModel.Internals.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/System.Transactions.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/System.Transactions.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/System.Web.Services.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/System.Web.Services.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/System.Xml.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/System.Xml.Linq.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/System.Xml.Linq.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/System.Xml.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Activity.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Activity.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Annotation.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Annotation.Experimental.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Annotation.Experimental.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Annotation.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.AppCompat.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.AppCompat.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Arch.Core.Common.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Arch.Core.Common.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Arch.Core.Runtime.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Arch.Core.Runtime.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.AsyncLayoutInflater.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.AsyncLayoutInflater.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Browser.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Browser.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.CardView.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.CardView.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Collection.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Collection.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.ConstraintLayout.Core.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.ConstraintLayout.Core.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.ConstraintLayout.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.ConstraintLayout.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.CoordinatorLayout.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.CoordinatorLayout.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Core.Core.Ktx.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Core.Core.Ktx.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Core.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Core.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.CursorAdapter.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.CursorAdapter.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.CustomView.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.CustomView.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.DocumentFile.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.DocumentFile.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.DrawerLayout.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.DrawerLayout.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Fragment.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Fragment.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Interpolator.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Interpolator.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Legacy.Support.V4.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Legacy.Support.V4.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.Common.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.Common.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.LiveData.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.LiveData.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.Runtime.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.Runtime.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.ViewModel.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.ViewModelSavedState.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Loader.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Loader.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.LocalBroadcastManager.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.LocalBroadcastManager.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Media.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Media.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.MultiDex.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.MultiDex.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Print.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Print.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.RecyclerView.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.RecyclerView.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.SavedState.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.SavedState.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.SlidingPaneLayout.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.SlidingPaneLayout.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.SwipeRefreshLayout.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.SwipeRefreshLayout.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Tracing.Tracing.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Tracing.Tracing.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Transition.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Transition.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.VectorDrawable.Animated.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.VectorDrawable.Animated.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.VectorDrawable.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.VectorDrawable.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.VersionedParcelable.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.VersionedParcelable.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.ViewPager.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.ViewPager.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.ViewPager2.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.ViewPager2.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.Essentials.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.Essentials.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.Forms.Core.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.Forms.Core.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.Android.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.Android.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.Forms.Xaml.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.Forms.Xaml.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.Google.Android.Material.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.Google.Android.Material.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.Google.Guava.ListenableFuture.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.Jetbrains.Annotations.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.Kotlin.StdLib.Common.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.Kotlin.StdLib.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/ZelleSDKAndroidBinding.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/ZelleSDKAndroidBinding.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/ZxingEmbedded.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/ZxingEmbedded.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/typemaps.arm64-v8a.s
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/typemaps.armeabi-v7a.s
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/typemaps.x86.s
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/typemaps.x86_64.s
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/typemaps.armeabi-v7a-shared.inc
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/typemaps.shared.inc
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/AndroidManifest.xml
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/AndroidManifest.xml
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/__environment__.txt
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/MonoRuntimeProvider.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/assets/machine.config
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/bin/mono.android.jar
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/static.flag
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/buildid.txt
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/environment.arm64-v8a.s
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/environment.armeabi-v7a.s
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/environment.x86.s
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/environment.x86_64.s
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/androidx/annotation/experimental/R.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/androidx/appcompat/app/AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/androidx/appcompat/app/AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/androidx/appcompat/app/AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/androidx/appcompat/R.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/androidx/appcompat/resources/R.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/androidx/appcompat/widget/Toolbar_NavigationOnClickEventDispatcher.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/androidx/browser/customtabs/CustomTabsClient_CustomTabsCallbackImpl.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/androidx/browser/R.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/androidx/cardview/R.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/androidx/constraintlayout/widget/R.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/androidx/coordinatorlayout/R.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/androidx/core/ktx/R.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/androidx/core/R.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/androidx/drawerlayout/R.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/androidx/fragment/R.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/androidx/lifecycle/runtime/R.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/androidx/lifecycle/viewmodel/R.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/androidx/media/R.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/androidx/recyclerview/R.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/androidx/savedstate/R.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/androidx/swiperefreshlayout/R.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/androidx/transition/R.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/androidx/viewpager2/R.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/com/fiserv/dps/mobile/sdk/R.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/com/google/android/material/R.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/com/google/android/material/snackbar/Snackbar_SnackbarActionClickImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/com/google/zxing/client/android/R.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc6414252951f3f66c67/CarouselViewAdapter_2.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc6414252951f3f66c67/RecyclerViewScrollListener_2.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64396a3fe5f8138e3f/CustomTabsServiceConnectionImpl.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64396a3fe5f8138e3f/KeepAliveService.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ActionSheetRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ActivityIndicatorRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/AHorizontalScrollView.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/AndroidActivity.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/BaseCellView.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/BorderDrawable.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/BoxRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ButtonRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ButtonRenderer_ButtonClickListener.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ButtonRenderer_ButtonTouchListener.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CarouselPageAdapter.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CarouselPageRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CarouselSpacingItemDecoration.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CarouselViewRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CarouselViewRenderer_CarouselViewOnScrollListener.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CellAdapter.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CellRenderer_RendererHolder.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CenterSnapHelper.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CheckBoxDesignerRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CheckBoxRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CheckBoxRendererBase.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CircularProgress.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CollectionViewRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ColorChangeRevealDrawable.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ConditionalFocusLayout.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ContainerView.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CustomFrameLayout.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/DataChangeObserver.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/DatePickerRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/DatePickerRendererBase_1.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/DragAndDropGestureHandler.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/DragAndDropGestureHandler_CustomLocalStateData.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EditorEditText.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EditorRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EditorRendererBase_1.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EllipseRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EllipseView.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EmptyViewAdapter.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EndSingleSnapHelper.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EndSnapHelper.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EntryAccessibilityDelegate.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EntryCellEditText.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EntryCellView.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EntryEditText.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EntryRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EntryRendererBase_1.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FlyoutPageContainer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FlyoutPageRendererNonAppCompat.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormattedStringExtensions_FontSpan.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormattedStringExtensions_LineHeightSpan.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormattedStringExtensions_TextDecorationSpan.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsAnimationDrawable.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsAppCompatActivity.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsApplicationActivity.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsEditText.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsImageView.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsSeekBar.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsTextView.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsVideoView.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsWebChromeClient.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsWebViewClient.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FrameRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FrameRenderer_FrameDrawable.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GenericGlobalLayoutListener.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GenericMenuClickListener.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GradientStrokeDrawable.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GradientStrokeDrawable_GradientShaderFactory.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GridLayoutSpanSizeLookup.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GroupableItemsViewAdapter_2.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GroupableItemsViewRenderer_3.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GroupedListViewAdapter.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ImageButtonRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ImageCache_CacheEntry.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ImageCache_FormsLruCache.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ImageRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/IndicatorViewRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/InnerGestureListener.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/InnerScaleListener.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ItemContentView.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ItemsViewRenderer_3.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/LabelRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/LineRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/LineView.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ListViewRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ListViewRenderer_Container.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/LocalizedDigitsKeyListener.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/MasterDetailContainer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/NativeViewWrapperRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/NavigationRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/NongreedySnapHelper.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/NongreedySnapHelper_InitialScrollListener.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ObjectJavaBox_1.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/OpenGLViewRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/OpenGLViewRenderer_Renderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PageContainer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PageExtensions_EmbeddedFragment.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PageExtensions_EmbeddedSupportFragment.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PageRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PathRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PathView.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PickerEditText.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PickerManager_PickerListener.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PickerRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PlatformRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/Platform_DefaultRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PolygonRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PolygonView.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PolylineRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PolylineView.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PositionalSmoothScroller.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PowerSaveModeBroadcastReceiver.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ProgressBarRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/RadioButtonRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/RectangleRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/RectView.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/RecyclerViewContainer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/RefreshViewRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ScrollHelper.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ScrollLayoutManager.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ScrollViewContainer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ScrollViewRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SearchBarRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SelectableItemsViewAdapter_2.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SelectableViewHolder.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShapeRenderer_2.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShapeView.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellContentFragment.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellFlyoutLayout.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellFlyoutRecyclerAdapter.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellFlyoutRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellFlyoutTemplatedContentRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellFragmentPagerAdapter.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellItemRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellPageContainer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellRenderer_SplitDrawable.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellSearchView.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellSearchViewAdapter.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellSearchViewAdapter_CustomFilter.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellSearchViewAdapter_ObjectWrapper.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellSearchView_ClipDrawableWrapper.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellSectionRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellToolbarTracker.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SimpleViewHolder.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SingleSnapHelper.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SizedItemContentView.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SliderRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SpacingItemDecoration.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/StartSingleSnapHelper.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/StartSnapHelper.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/StepperRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/StepperRendererManager_StepperListener.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/StructuredItemsViewAdapter_2.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/StructuredItemsViewRenderer_3.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SwipeViewRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SwitchCellView.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SwitchRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/TabbedRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/TableViewRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/TemplatedItemViewHolder.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/TextCellRenderer_TextCellView.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/TextViewHolder.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/TimePickerRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/TimePickerRendererBase_1.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ViewCellRenderer_ViewCellContainer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ViewRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ViewRenderer_2.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/VisualElementRenderer_1.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/VisualElementTracker_AttachTracker.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/WebViewRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/WebViewRenderer_JavascriptResult.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc6461677b5c965d41e8/MainActivity.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc6461677b5c965d41e8/ZelleActivity.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/CarouselPageRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/FormsFragmentPagerAdapter_1.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/FormsViewPager.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/FragmentContainer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/FrameRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/NavigationPageRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/NavigationPageRenderer_ClickListener.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/NavigationPageRenderer_Container.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/NavigationPageRenderer_DrawerMultiplexedListener.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/PickerRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/Platform_ModalContainer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/ShellFragmentContainer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/SwitchRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/ViewRenderer_2.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/AccelerometerListener.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/ActivityLifecycleContextListener.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/BarometerListener.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/BatteryBroadcastReceiver.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/ClipboardChangeListener.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/ConnectivityBroadcastReceiver.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/EnergySaverBroadcastReceiver.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/GyroscopeListener.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/IntermediateActivity.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/Listener.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/MagnetometerListener.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/OrientationSensorListener.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/SensorListener.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/SingleLocationListener.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/WebAuthenticatorCallbackActivity.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/WebAuthenticatorIntermediateActivity.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64a25b61d9f8ee364f/FloatArrayEvaluator.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64a25b61d9f8ee364f/TransitionUtils.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64a25b61d9f8ee364f/TransitionUtils_MatrixEvaluator.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64ee486da937c010f4/ButtonRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64ee486da937c010f4/FrameRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64ee486da937c010f4/ImageRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/crc64ee486da937c010f4/LabelRenderer.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/android/app/ApplicationRegistration.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/android/support/v4/media/session/MediaSessionCompat_OnActiveChangeListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/activity/contextaware/OnContextAvailableListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/appcompat/app/ActionBar_OnMenuVisibilityListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/appcompat/app/ActionBar_OnNavigationListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/appcompat/app/ActionBar_TabListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/ActionMenuView_OnMenuItemClickListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/ContentFrameLayout_OnAttachListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/MenuItemHoverListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/PopupMenu_OnDismissListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/PopupMenu_OnMenuItemClickListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/SearchView_OnCloseListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/SearchView_OnQueryTextListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/SearchView_OnSuggestionListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/Toolbar_OnMenuItemClickListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/ViewStubCompat_OnInflateListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/asynclayoutinflater/view/AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/constraintlayout/motion/widget/MotionLayout_TransitionListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/constraintlayout/widget/SharedValues_SharedValuesListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/core/app/SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/core/os/CancellationSignal_OnCancelListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/core/view/accessibility/AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/core/view/accessibility/AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/core/view/ActionProvider_SubUiVisibilityListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/core/view/ActionProvider_VisibilityListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/core/view/DragStartHelper_OnDragStartListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/core/view/inputmethod/InputConnectionCompat_OnCommitContentListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/core/view/MenuItemCompat_OnActionExpandListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/core/view/OnApplyWindowInsetsListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/core/view/OnReceiveContentListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/core/view/ViewPropertyAnimatorListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/core/view/ViewPropertyAnimatorUpdateListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/core/view/WindowInsetsControllerCompat_OnControllableInsetsChangedListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/core/widget/NestedScrollView_OnScrollChangeListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/drawerlayout/widget/DrawerLayout_DrawerListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/fragment/app/FragmentManager_OnBackStackChangedListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/fragment/app/FragmentOnAttachListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/fragment/app/FragmentResultListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/loader/content/Loader_OnLoadCanceledListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/loader/content/Loader_OnLoadCompleteListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/recyclerview/widget/AsyncListDiffer_ListListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/recyclerview/widget/RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/recyclerview/widget/RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/recyclerview/widget/RecyclerView_OnItemTouchListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/recyclerview/widget/RecyclerView_RecyclerListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/slidingpanelayout/widget/SlidingPaneLayout_PanelSlideListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/swiperefreshlayout/widget/SwipeRefreshLayout_OnRefreshListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/transition/Transition_TransitionListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/viewpager/widget/ViewPager_OnAdapterChangeListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/viewpager/widget/ViewPager_OnPageChangeListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/com/google/android/material/appbar/AppBarLayout_OnOffsetChangedListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/com/google/android/material/behavior/SwipeDismissBehavior_OnDismissListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/com/google/android/material/bottomnavigation/BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/com/google/android/material/bottomnavigation/BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/com/google/android/material/button/MaterialButtonToggleGroup_OnButtonCheckedListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/com/google/android/material/button/MaterialButton_OnCheckedChangeListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/com/google/android/material/card/MaterialCardView_OnCheckedChangeListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/com/google/android/material/chip/ChipGroup_OnCheckedChangeListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/com/google/android/material/datepicker/MaterialPickerOnPositiveButtonClickListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/com/google/android/material/internal/ViewUtils_OnApplyWindowInsetsListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/com/google/android/material/navigation/NavigationView_OnNavigationItemSelectedListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/com/google/android/material/shape/ShapeAppearancePathProvider_PathListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/com/google/android/material/slider/BaseOnChangeListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/com/google/android/material/slider/BaseOnSliderTouchListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/com/google/android/material/tabs/TabLayout_BaseOnTabSelectedListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/com/google/android/material/textfield/TextInputLayout_OnEditTextAttachedListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/com/google/android/material/textfield/TextInputLayout_OnEndIconChangedListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/com/journeyapps/barcodescanner/CameraPreview_StateListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/com/journeyapps/barcodescanner/DecoratedBarcodeView_TorchListenerImplementor.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/mono/MonoPackageManager_Resources.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/xamarin/essentials/fileProvider.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/bin/packaged_resources
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/src/com/fiserv/dps/mobile/fiapp/R.java
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/compressed_assemblies.arm64-v8a.s
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/compressed_assemblies.armeabi-v7a.s
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/compressed_assemblies.x86.s
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/compressed_assemblies.x86_64.s
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/typemaps.arm64-v8a.o
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/typemaps.armeabi-v7a.o
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/typemaps.x86.o
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/typemaps.x86_64.o
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/environment.arm64-v8a.o
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/environment.armeabi-v7a.o
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/environment.x86.o
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/environment.x86_64.o
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/compressed_assemblies.arm64-v8a.o
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/compressed_assemblies.armeabi-v7a.o
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/compressed_assemblies.x86.o
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/compressed_assemblies.x86_64.o
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/app_shared_libraries/arm64-v8a/libxamarin-app.so
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/app_shared_libraries/armeabi-v7a/libxamarin-app.so
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/app_shared_libraries/x86/libxamarin-app.so
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/app_shared_libraries/x86_64/libxamarin-app.so
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/android/bin/classes.dex
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/stamp/_CleanIntermediateIfNeeded.stamp
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/stamp/_CompileToDalvik.stamp
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/stamp/_ConvertCustomView.stamp
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/stamp/_ConvertResourcesCases.stamp
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/stamp/_GenerateJavaStubs.stamp
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/stamp/_GeneratePackageManagerJava.stamp
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.Android/obj/Debug/stamp/_ResolveLibraryProjectImports.stamp
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/MonoAndroid,Version=v11.0.AssemblyAttributes.cs
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/build.props
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/adb.props
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/FIApp.Android.csproj.AssemblyReference.cache
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/stamp/_BuildLibraryImportsCache.stamp
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/res.flag
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/lp/49/jl/files.cache
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/lp/50/jl/files.cache
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/lp/58/jl/files.cache
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/lp/59/jl/files.cache
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/lp/60/jl/files.cache
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/lp/64/jl/files.cache
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/lp/65/jl/files.cache
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/lp/66/jl/files.cache
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/lp/71/jl/files.cache
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/lp/72/jl/files.cache
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/lp/76/jl/files.cache
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/lp/77/jl/files.cache
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/lp/79/jl/files.cache
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/lp/80/jl/files.cache
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/lp/81/jl/files.cache
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/lp/82/jl/files.cache
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/lp/83/jl/files.cache
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/lp/84/jl/files.cache
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/lp/87/jl/files.cache
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/lp/95/jl/files.cache
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/lp/96/jl/files.cache
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/lp/97/jl/files.cache
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/R.txt
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/R.cs.flag
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/FIApp.Android.csproj.CoreCompileInputs.cache
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/FIApp.Android.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/FIApp.Android.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/bin/Debug/FIApp.Android.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/bin/Debug/FIApp.Android.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/bin/Debug/com.fiserv.dps.mobile.fiapp.apk
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/bin/Debug/com.fiserv.dps.mobile.fiapp.aab
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/bin/Debug/com.fiserv.dps.mobile.fiapp-Signed.aab
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/bin/Debug/com.fiserv.dps.mobile.fiapp-Signed.apk
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/bin/Debug/com.fiserv.dps.mobile.fiapp-Signed.apk.idsig
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/bin/Debug/FIApp.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/bin/Debug/ZelleSDKAndroidBinding.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/bin/Debug/ZxingEmbedded.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/bin/Debug/FIApp.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/lp/98/jl/files.cache
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/lp/99/jl/files.cache
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/FIApp.Android.csproj.CopyComplete
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/bin/com.fiserv.dps.mobile.fiapp.apk
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/bin/base.zip
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/bin/com.fiserv.dps.mobile.fiapp.aab
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/bin/com.fiserv.dps.mobile.fiapp.apks
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/res/values/styles.xml
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/res/values/colors.xml
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/res/mipmap-anydpi-v26/icon.xml
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/res/mipmap-anydpi-v26/icon_round.xml
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/res/mipmap-hdpi/icon.png
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/res/mipmap-hdpi/launcher_foreground.png
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/res/mipmap-mdpi/icon.png
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/res/mipmap-mdpi/launcher_foreground.png
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/res/mipmap-xhdpi/icon.png
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/res/mipmap-xhdpi/launcher_foreground.png
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/res/mipmap-xxhdpi/icon.png
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/res/mipmap-xxhdpi/launcher_foreground.png
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/res/mipmap-xxxhdpi/launcher_foreground.png
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/res/layout/zelle_activity.xml
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/uploadflags.txt
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/resolvedassemblies.hash
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/FIApp.Android.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/FIApp.Android.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/FIApp.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/FIApp.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/FormsViewGroup.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/FormsViewGroup.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Google.ZXing.Core.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Java.Interop.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Java.Interop.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Mono.Android.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Mono.Android.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Mono.Security.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Mono.Security.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/mscorlib.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/mscorlib.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/netstandard.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/System.ComponentModel.Composition.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/System.ComponentModel.Composition.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/System.Core.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/System.Core.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/System.Data.DataSetExtensions.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/System.Data.DataSetExtensions.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/System.Data.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/System.Data.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/System.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/System.Drawing.Common.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/System.Drawing.Common.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/System.IO.Compression.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/System.IO.Compression.FileSystem.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/System.IO.Compression.FileSystem.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/System.IO.Compression.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/System.Net.Http.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/System.Net.Http.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/System.Numerics.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/System.Numerics.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/System.Numerics.Vectors.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/System.Numerics.Vectors.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/System.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/System.Runtime.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/System.Runtime.Serialization.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/System.Runtime.Serialization.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/System.ServiceModel.Internals.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/System.ServiceModel.Internals.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/System.Transactions.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/System.Transactions.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/System.Web.Services.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/System.Web.Services.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/System.Xml.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/System.Xml.Linq.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/System.Xml.Linq.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/System.Xml.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Activity.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Activity.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Annotation.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Annotation.Experimental.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Annotation.Experimental.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Annotation.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.AppCompat.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.AppCompat.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Arch.Core.Common.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Arch.Core.Common.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Arch.Core.Runtime.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Arch.Core.Runtime.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.AsyncLayoutInflater.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.AsyncLayoutInflater.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Browser.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Browser.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.CardView.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.CardView.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Collection.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Collection.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.ConstraintLayout.Core.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.ConstraintLayout.Core.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.ConstraintLayout.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.ConstraintLayout.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.CoordinatorLayout.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.CoordinatorLayout.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Core.Core.Ktx.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Core.Core.Ktx.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Core.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Core.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.CursorAdapter.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.CursorAdapter.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.CustomView.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.CustomView.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.DocumentFile.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.DocumentFile.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.DrawerLayout.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.DrawerLayout.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Fragment.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Fragment.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Interpolator.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Interpolator.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Legacy.Support.V4.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Legacy.Support.V4.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.Common.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.Common.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.LiveData.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.LiveData.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.Runtime.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.Runtime.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.ViewModel.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.ViewModelSavedState.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Loader.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Loader.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.LocalBroadcastManager.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.LocalBroadcastManager.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Media.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Media.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.MultiDex.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.MultiDex.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Print.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Print.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.RecyclerView.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.RecyclerView.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.SavedState.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.SavedState.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.SlidingPaneLayout.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.SlidingPaneLayout.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.SwipeRefreshLayout.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.SwipeRefreshLayout.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Tracing.Tracing.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Tracing.Tracing.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Transition.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.Transition.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.VectorDrawable.Animated.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.VectorDrawable.Animated.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.VectorDrawable.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.VectorDrawable.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.VersionedParcelable.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.VersionedParcelable.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.ViewPager.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.ViewPager.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.ViewPager2.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.AndroidX.ViewPager2.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.Essentials.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.Essentials.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.Forms.Core.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.Forms.Core.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.Android.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.Android.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.Forms.Xaml.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.Forms.Xaml.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.Google.Android.Material.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.Google.Android.Material.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.Google.Guava.ListenableFuture.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.Jetbrains.Annotations.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.Kotlin.StdLib.Common.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/Xamarin.Kotlin.StdLib.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/ZelleSDKAndroidBinding.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/ZxingEmbedded.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/typemaps.arm64-v8a.s
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/typemaps.armeabi-v7a.s
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/typemaps.x86.s
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/typemaps.x86_64.s
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/typemaps.armeabi-v7a-shared.inc
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/typemaps.shared.inc
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/AndroidManifest.xml
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/AndroidManifest.xml
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/__environment__.txt
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/MonoRuntimeProvider.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/assets/machine.config
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/bin/mono.android.jar
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/static.flag
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/buildid.txt
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/environment.arm64-v8a.s
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/environment.armeabi-v7a.s
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/environment.x86.s
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/environment.x86_64.s
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/androidx/annotation/experimental/R.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/androidx/appcompat/app/AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/androidx/appcompat/app/AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/androidx/appcompat/app/AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/androidx/appcompat/R.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/androidx/appcompat/resources/R.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/androidx/appcompat/widget/Toolbar_NavigationOnClickEventDispatcher.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/androidx/browser/customtabs/CustomTabsClient_CustomTabsCallbackImpl.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/androidx/browser/R.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/androidx/cardview/R.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/androidx/constraintlayout/widget/R.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/androidx/coordinatorlayout/R.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/androidx/core/ktx/R.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/androidx/core/R.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/androidx/drawerlayout/R.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/androidx/fragment/R.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/androidx/lifecycle/runtime/R.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/androidx/lifecycle/viewmodel/R.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/androidx/media/R.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/androidx/recyclerview/R.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/androidx/savedstate/R.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/androidx/swiperefreshlayout/R.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/androidx/transition/R.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/androidx/viewpager2/R.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/com/fiserv/dps/mobile/sdk/R.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/com/google/android/material/R.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/com/google/android/material/snackbar/Snackbar_SnackbarActionClickImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/com/google/zxing/client/android/R.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc6414252951f3f66c67/CarouselViewAdapter_2.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc6414252951f3f66c67/RecyclerViewScrollListener_2.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64396a3fe5f8138e3f/CustomTabsServiceConnectionImpl.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64396a3fe5f8138e3f/KeepAliveService.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ActionSheetRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ActivityIndicatorRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/AHorizontalScrollView.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/AndroidActivity.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/BaseCellView.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/BorderDrawable.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/BoxRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ButtonRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ButtonRenderer_ButtonClickListener.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ButtonRenderer_ButtonTouchListener.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CarouselPageAdapter.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CarouselPageRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CarouselSpacingItemDecoration.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CarouselViewRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CarouselViewRenderer_CarouselViewOnScrollListener.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CellAdapter.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CellRenderer_RendererHolder.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CenterSnapHelper.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CheckBoxDesignerRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CheckBoxRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CheckBoxRendererBase.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CircularProgress.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CollectionViewRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ColorChangeRevealDrawable.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ConditionalFocusLayout.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ContainerView.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CustomFrameLayout.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/DataChangeObserver.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/DatePickerRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/DatePickerRendererBase_1.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/DragAndDropGestureHandler.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/DragAndDropGestureHandler_CustomLocalStateData.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EditorEditText.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EditorRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EditorRendererBase_1.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EllipseRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EllipseView.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EmptyViewAdapter.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EndSingleSnapHelper.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EndSnapHelper.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EntryAccessibilityDelegate.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EntryCellEditText.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EntryCellView.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EntryEditText.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EntryRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EntryRendererBase_1.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FlyoutPageContainer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FlyoutPageRendererNonAppCompat.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormattedStringExtensions_FontSpan.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormattedStringExtensions_LineHeightSpan.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormattedStringExtensions_TextDecorationSpan.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsAnimationDrawable.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsAppCompatActivity.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsApplicationActivity.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsEditText.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsImageView.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsSeekBar.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsTextView.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsVideoView.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsWebChromeClient.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsWebViewClient.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FrameRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FrameRenderer_FrameDrawable.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GenericGlobalLayoutListener.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GenericMenuClickListener.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GradientStrokeDrawable.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GradientStrokeDrawable_GradientShaderFactory.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GridLayoutSpanSizeLookup.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GroupableItemsViewAdapter_2.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GroupableItemsViewRenderer_3.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GroupedListViewAdapter.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ImageButtonRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ImageCache_CacheEntry.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ImageCache_FormsLruCache.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ImageRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/IndicatorViewRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/InnerGestureListener.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/InnerScaleListener.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ItemContentView.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ItemsViewRenderer_3.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/LabelRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/LineRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/LineView.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ListViewRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ListViewRenderer_Container.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/LocalizedDigitsKeyListener.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/MasterDetailContainer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/NativeViewWrapperRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/NavigationRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/NongreedySnapHelper.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/NongreedySnapHelper_InitialScrollListener.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ObjectJavaBox_1.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/OpenGLViewRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/OpenGLViewRenderer_Renderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PageContainer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PageExtensions_EmbeddedFragment.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PageExtensions_EmbeddedSupportFragment.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PageRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PathRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PathView.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PickerEditText.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PickerManager_PickerListener.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PickerRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PlatformRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/Platform_DefaultRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PolygonRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PolygonView.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PolylineRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PolylineView.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PositionalSmoothScroller.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PowerSaveModeBroadcastReceiver.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ProgressBarRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/RadioButtonRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/RectangleRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/RectView.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/RecyclerViewContainer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/RefreshViewRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ScrollHelper.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ScrollLayoutManager.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ScrollViewContainer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ScrollViewRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SearchBarRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SelectableItemsViewAdapter_2.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SelectableViewHolder.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShapeRenderer_2.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShapeView.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellContentFragment.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellFlyoutLayout.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellFlyoutRecyclerAdapter.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellFlyoutRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellFlyoutTemplatedContentRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellFragmentPagerAdapter.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellItemRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellPageContainer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellRenderer_SplitDrawable.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellSearchView.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellSearchViewAdapter.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellSearchViewAdapter_CustomFilter.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellSearchViewAdapter_ObjectWrapper.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellSearchView_ClipDrawableWrapper.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellSectionRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellToolbarTracker.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SimpleViewHolder.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SingleSnapHelper.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SizedItemContentView.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SliderRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SpacingItemDecoration.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/StartSingleSnapHelper.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/StartSnapHelper.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/StepperRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/StepperRendererManager_StepperListener.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/StructuredItemsViewAdapter_2.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/StructuredItemsViewRenderer_3.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SwipeViewRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SwitchCellView.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SwitchRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/TabbedRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/TableViewRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/TemplatedItemViewHolder.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/TextCellRenderer_TextCellView.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/TextViewHolder.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/TimePickerRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/TimePickerRendererBase_1.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ViewCellRenderer_ViewCellContainer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ViewRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ViewRenderer_2.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/VisualElementRenderer_1.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/VisualElementTracker_AttachTracker.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/WebViewRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/WebViewRenderer_JavascriptResult.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc6461677b5c965d41e8/MainActivity.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc6461677b5c965d41e8/ZelleActivity.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/CarouselPageRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/FormsFragmentPagerAdapter_1.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/FormsViewPager.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/FragmentContainer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/FrameRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/NavigationPageRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/NavigationPageRenderer_ClickListener.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/NavigationPageRenderer_Container.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/NavigationPageRenderer_DrawerMultiplexedListener.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/PickerRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/Platform_ModalContainer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/ShellFragmentContainer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/SwitchRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/ViewRenderer_2.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/AccelerometerListener.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/ActivityLifecycleContextListener.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/BarometerListener.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/BatteryBroadcastReceiver.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/ClipboardChangeListener.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/ConnectivityBroadcastReceiver.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/EnergySaverBroadcastReceiver.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/GyroscopeListener.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/IntermediateActivity.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/Listener.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/MagnetometerListener.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/OrientationSensorListener.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/SensorListener.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/SingleLocationListener.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/WebAuthenticatorCallbackActivity.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/WebAuthenticatorIntermediateActivity.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64a25b61d9f8ee364f/FloatArrayEvaluator.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64a25b61d9f8ee364f/TransitionUtils.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64a25b61d9f8ee364f/TransitionUtils_MatrixEvaluator.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64ee486da937c010f4/ButtonRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64ee486da937c010f4/FrameRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64ee486da937c010f4/ImageRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/crc64ee486da937c010f4/LabelRenderer.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/android/app/ApplicationRegistration.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/android/support/v4/media/session/MediaSessionCompat_OnActiveChangeListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/activity/contextaware/OnContextAvailableListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/appcompat/app/ActionBar_OnMenuVisibilityListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/appcompat/app/ActionBar_OnNavigationListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/appcompat/app/ActionBar_TabListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/ActionMenuView_OnMenuItemClickListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/ContentFrameLayout_OnAttachListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/MenuItemHoverListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/PopupMenu_OnDismissListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/PopupMenu_OnMenuItemClickListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/SearchView_OnCloseListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/SearchView_OnQueryTextListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/SearchView_OnSuggestionListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/Toolbar_OnMenuItemClickListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/ViewStubCompat_OnInflateListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/asynclayoutinflater/view/AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/constraintlayout/motion/widget/MotionLayout_TransitionListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/constraintlayout/widget/SharedValues_SharedValuesListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/core/app/SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/core/os/CancellationSignal_OnCancelListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/core/view/accessibility/AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/core/view/accessibility/AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/core/view/ActionProvider_SubUiVisibilityListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/core/view/ActionProvider_VisibilityListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/core/view/DragStartHelper_OnDragStartListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/core/view/inputmethod/InputConnectionCompat_OnCommitContentListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/core/view/MenuItemCompat_OnActionExpandListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/core/view/OnApplyWindowInsetsListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/core/view/OnReceiveContentListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/core/view/ViewPropertyAnimatorListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/core/view/ViewPropertyAnimatorUpdateListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/core/view/WindowInsetsControllerCompat_OnControllableInsetsChangedListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/core/widget/NestedScrollView_OnScrollChangeListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/drawerlayout/widget/DrawerLayout_DrawerListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/fragment/app/FragmentManager_OnBackStackChangedListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/fragment/app/FragmentOnAttachListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/fragment/app/FragmentResultListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/loader/content/Loader_OnLoadCanceledListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/loader/content/Loader_OnLoadCompleteListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/recyclerview/widget/AsyncListDiffer_ListListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/recyclerview/widget/RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/recyclerview/widget/RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/recyclerview/widget/RecyclerView_OnItemTouchListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/recyclerview/widget/RecyclerView_RecyclerListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/slidingpanelayout/widget/SlidingPaneLayout_PanelSlideListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/swiperefreshlayout/widget/SwipeRefreshLayout_OnRefreshListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/transition/Transition_TransitionListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/viewpager/widget/ViewPager_OnAdapterChangeListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/androidx/viewpager/widget/ViewPager_OnPageChangeListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/com/google/android/material/appbar/AppBarLayout_OnOffsetChangedListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/com/google/android/material/behavior/SwipeDismissBehavior_OnDismissListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/com/google/android/material/bottomnavigation/BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/com/google/android/material/bottomnavigation/BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/com/google/android/material/button/MaterialButtonToggleGroup_OnButtonCheckedListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/com/google/android/material/button/MaterialButton_OnCheckedChangeListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/com/google/android/material/card/MaterialCardView_OnCheckedChangeListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/com/google/android/material/chip/ChipGroup_OnCheckedChangeListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/com/google/android/material/datepicker/MaterialPickerOnPositiveButtonClickListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/com/google/android/material/internal/ViewUtils_OnApplyWindowInsetsListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/com/google/android/material/navigation/NavigationView_OnNavigationItemSelectedListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/com/google/android/material/shape/ShapeAppearancePathProvider_PathListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/com/google/android/material/slider/BaseOnChangeListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/com/google/android/material/slider/BaseOnSliderTouchListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/com/google/android/material/tabs/TabLayout_BaseOnTabSelectedListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/com/google/android/material/textfield/TextInputLayout_OnEditTextAttachedListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/com/google/android/material/textfield/TextInputLayout_OnEndIconChangedListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/com/journeyapps/barcodescanner/CameraPreview_StateListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/com/journeyapps/barcodescanner/DecoratedBarcodeView_TorchListenerImplementor.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/mono/MonoPackageManager_Resources.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/xamarin/essentials/fileProvider.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/bin/packaged_resources
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/src/com/fiserv/dps/mobile/fiapp/R.java
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/compressed_assemblies.arm64-v8a.s
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/compressed_assemblies.armeabi-v7a.s
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/compressed_assemblies.x86.s
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/compressed_assemblies.x86_64.s
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/typemaps.arm64-v8a.o
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/typemaps.armeabi-v7a.o
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/typemaps.x86.o
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/typemaps.x86_64.o
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/environment.arm64-v8a.o
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/environment.armeabi-v7a.o
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/environment.x86.o
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/environment.x86_64.o
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/compressed_assemblies.arm64-v8a.o
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/compressed_assemblies.armeabi-v7a.o
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/compressed_assemblies.x86.o
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/compressed_assemblies.x86_64.o
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/app_shared_libraries/arm64-v8a/libxamarin-app.so
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/app_shared_libraries/armeabi-v7a/libxamarin-app.so
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/app_shared_libraries/x86/libxamarin-app.so
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/app_shared_libraries/x86_64/libxamarin-app.so
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/android/bin/classes.dex
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/stamp/_CleanIntermediateIfNeeded.stamp
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/stamp/_CompileToDalvik.stamp
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/stamp/_ConvertCustomView.stamp
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/stamp/_ConvertResourcesCases.stamp
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/stamp/_GenerateJavaStubs.stamp
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/stamp/_GeneratePackageManagerJava.stamp
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp.Android/obj/Debug/stamp/_ResolveLibraryProjectImports.stamp

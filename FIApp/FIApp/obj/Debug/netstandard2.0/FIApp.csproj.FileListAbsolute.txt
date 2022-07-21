@@ -1,0 +1,44 @@
+/Users/gowtham/Projects/FIApp/FIApp/bin/Debug/netstandard2.0/FIApp.deps.json
+/Users/gowtham/Projects/FIApp/FIApp/bin/Debug/netstandard2.0/FIApp.dll
+/Users/gowtham/Projects/FIApp/FIApp/bin/Debug/netstandard2.0/ref/FIApp.dll
+/Users/gowtham/Projects/FIApp/FIApp/bin/Debug/netstandard2.0/FIApp.pdb
+/Users/gowtham/Projects/FIApp/FIApp/obj/Debug/netstandard2.0/FIApp.csproj.AssemblyReference.cache
+/Users/gowtham/Projects/FIApp/FIApp/obj/Debug/netstandard2.0/FIApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gowtham/Projects/FIApp/FIApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/gowtham/Projects/FIApp/FIApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/gowtham/Projects/FIApp/FIApp/obj/Debug/netstandard2.0/FIApp.AssemblyInfoInputs.cache
+/Users/gowtham/Projects/FIApp/FIApp/obj/Debug/netstandard2.0/FIApp.AssemblyInfo.cs
+/Users/gowtham/Projects/FIApp/FIApp/obj/Debug/netstandard2.0/FIApp.csproj.CoreCompileInputs.cache
+/Users/gowtham/Projects/FIApp/FIApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/gowtham/Projects/FIApp/FIApp/obj/Debug/netstandard2.0/FIApp.dll
+/Users/gowtham/Projects/FIApp/FIApp/obj/Debug/netstandard2.0/ref/FIApp.dll
+/Users/gowtham/Projects/FIApp/FIApp/obj/Debug/netstandard2.0/FIApp.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp/bin/Debug/netstandard2.0/FIApp.deps.json
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp/bin/Debug/netstandard2.0/FIApp.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp/bin/Debug/netstandard2.0/ref/FIApp.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp/bin/Debug/netstandard2.0/FIApp.pdb
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp/obj/Debug/netstandard2.0/FIApp.csproj.AssemblyReference.cache
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp/obj/Debug/netstandard2.0/FIApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp/obj/Debug/netstandard2.0/FIApp.AssemblyInfoInputs.cache
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp/obj/Debug/netstandard2.0/FIApp.AssemblyInfo.cs
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp/obj/Debug/netstandard2.0/FIApp.csproj.CoreCompileInputs.cache
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp/obj/Debug/netstandard2.0/FIApp.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp/obj/Debug/netstandard2.0/ref/FIApp.dll
+/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp/obj/Debug/netstandard2.0/FIApp.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp/bin/Debug/netstandard2.0/FIApp.deps.json
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp/bin/Debug/netstandard2.0/FIApp.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp/bin/Debug/netstandard2.0/ref/FIApp.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp/bin/Debug/netstandard2.0/FIApp.pdb
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp/obj/Debug/netstandard2.0/FIApp.csproj.AssemblyReference.cache
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp/obj/Debug/netstandard2.0/FIApp.AssemblyInfoInputs.cache
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp/obj/Debug/netstandard2.0/FIApp.AssemblyInfo.cs
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp/obj/Debug/netstandard2.0/FIApp.csproj.CoreCompileInputs.cache
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp/obj/Debug/netstandard2.0/FIApp.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp/obj/Debug/netstandard2.0/ref/FIApp.dll
+/Users/rac/Documents/Xamarin Working POC/Mutli- platform /XamarinIOS/FIApp/FIApp/obj/Debug/netstandard2.0/FIApp.pdb

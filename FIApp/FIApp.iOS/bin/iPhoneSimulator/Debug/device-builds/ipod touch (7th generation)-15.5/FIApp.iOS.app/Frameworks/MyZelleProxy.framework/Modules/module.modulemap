@@ -1,0 +1,11 @@
+framework module MyZelleProxy {
+  umbrella header "MyZelleProxy.h"
+
+  export *
+  module * { export * }
+}
+
+module MyZelleProxy.Swift {
+    header "MyZelleProxy-Swift.h"
+    requires objc
+}
